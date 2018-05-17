@@ -84,6 +84,8 @@ func enums() {
 }
 
 func main() {
+	 //a :=[]int{1,2,3}
+	 
 	fmt.Println("Hello world")
 	variableZeroValue()
 	variableInitialValue()
